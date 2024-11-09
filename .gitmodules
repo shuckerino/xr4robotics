@@ -1,0 +1,6 @@
+[submodule "MoPTeleOp"]
+	path = MoPTeleOp
+	url = .\\MoPTeleOp\\
+[submodule "pybullet-UR10-navigation"]
+	path = pybullet-UR10-navigation
+	url = .\\pybullet-UR10-navigation\\
