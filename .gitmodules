@@ -1,6 +1,6 @@
 [submodule "MoPTeleOp"]
 	path = MoPTeleOp
-	url = .\\MoPTeleOp\\
+	url = git@github.com:shuckerino/MoPTeleOp.git
 [submodule "pybullet-UR10-navigation"]
 	path = pybullet-UR10-navigation
-	url = .\\pybullet-UR10-navigation\\
+	url = git@github.com:shuckerino/pybullet-UR10-navigation.git
